@@ -34,6 +34,8 @@ Revel in the madness, for this Toy Wiki transcends the boundaries of reason and 
 
 ## Mock Python Script
 
+{% include codeHeader.html %}
+
 ```py
 import os
 
