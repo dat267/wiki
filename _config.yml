@@ -1,6 +1,18 @@
+# _config.yml
+
 plugins:
   - jekyll-relative-links
-
 relative_links:
   enabled: true
   collections: true
+
+title: Wiki 267
+description: Wiki composed by prisoner 267
+url: "https://dat267.github.io"
+baseurl: "/wiki"
+markdown: kramdown
+repository: dat267/wiki
+branch: main
+
+# Local development settings
+url: "http://localhost:4000"
