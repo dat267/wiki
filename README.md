@@ -29,3 +29,5 @@ This repository is governed by the Mayhem License, a binding pact that grants yo
 ## Conclusion
 
 Revel in the madness, for this Toy Wiki transcends the boundaries of reason and embraces the sublime lunacy that is knowledge without purpose. Enter if you dare, and may your sanity rest in pieces.
+
+[Bash](Linux/bash.md)
